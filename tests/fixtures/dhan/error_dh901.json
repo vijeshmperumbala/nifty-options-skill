@@ -1,0 +1,5 @@
+{
+  "errorType": "Invalid_Authentication",
+  "errorCode": "DH-901",
+  "errorMessage": "Client ID or access token is invalid"
+}

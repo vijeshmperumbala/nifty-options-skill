@@ -1,0 +1,15 @@
+{
+  "dhanClientId": "1000000001",
+  "orderId": "1123091024731",
+  "orderStatus": "REJECTED",
+  "transactionType": "BUY",
+  "exchangeSegment": "NSE_FNO",
+  "productType": "CNC",
+  "orderType": "MARKET",
+  "validity": "DAY",
+  "securityId": "63411",
+  "quantity": 65,
+  "filledQty": 0,
+  "averageTradedPrice": 0.0,
+  "omsErrorDescription": "Trading is not allowed, please check your static IP whitelisting"
+}

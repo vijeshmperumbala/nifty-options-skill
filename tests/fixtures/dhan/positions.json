@@ -1,0 +1,13 @@
+[
+  {
+    "tradingSymbol": "NIFTY 24850 PE 17 NOV 26",
+    "securityId": "63411",
+    "netQty": 65,
+    "buyAvg": 246.1,
+    "costPrice": 246.1,
+    "lastTradedPrice": 249.85,
+    "unrealizedProfit": 243.75,
+    "exchangeSegment": "NSE_FNO",
+    "productType": "CNC"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "errorType": "Input_Exception",
+  "errorCode": "DH-905",
+  "errorMessage": "Missing or invalid fields in the request"
+}

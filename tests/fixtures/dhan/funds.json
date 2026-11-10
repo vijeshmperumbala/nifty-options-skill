@@ -1,0 +1,10 @@
+{
+  "dhanClientId": "1000000001",
+  "availabelBalance": 285340.55,
+  "somIncomingPayin": 0.0,
+  "utilizedAmount": 42180.0,
+  "blockedPayinAmount": 0.0,
+  "collateralAmount": 0.0,
+  "recieveableAmount": 0.0,
+  "withdrawableBalance": 285340.55
+}

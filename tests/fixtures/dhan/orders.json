@@ -1,0 +1,20 @@
+[
+  {
+    "orderId": "1123091024730",
+    "transactionType": "BUY",
+    "tradingSymbol": "NIFTY 24850 PE 17 NOV 26",
+    "quantity": 65,
+    "filledQty": 65,
+    "orderStatus": "TRADED",
+    "averageTradedPrice": 246.1
+  },
+  {
+    "orderId": "1123091024732",
+    "transactionType": "SELL",
+    "tradingSymbol": "NIFTY 24850 PE 17 NOV 26",
+    "quantity": 65,
+    "filledQty": 0,
+    "orderStatus": "PENDING",
+    "averageTradedPrice": 0.0
+  }
+]
